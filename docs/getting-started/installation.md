@@ -319,4 +319,5 @@ export ANTHROPIC_API_KEY="sk-ant-..."
 ## Next Steps
 
 - [Quick Start](quickstart.md) — Run your first query
+- [Hardware Guide](hardware.md) — GPU, RAM, OS, and local-vs-cloud recommendations
 - [Configuration](configuration.md) — Customize engine hosts, model routing, memory, and more
